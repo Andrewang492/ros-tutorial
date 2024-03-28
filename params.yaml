@@ -1,0 +1,18 @@
+my_turtle:
+  background_b: 255
+  background_g: 86
+  background_r: 69
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_andre_virtualbox__41411: http://andre-VirtualBox:41411/
+rosversion: '1.16.0
+
+  '
+run_id: b735a742-d527-11ee-b85b-898e941737f7
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 150
